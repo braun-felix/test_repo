@@ -5,4 +5,5 @@ void main() {
 
 void printTest() {
   print("this is a test");
+  print("and it works very well!");
 }
