@@ -3,7 +3,12 @@ void main() {
   print ("Hi :)");
 }
 
+
 void printTest() {
   print("this is a test");
   print("and it works very well!");
+}
+
+void doStuff() {
+  print("I am very busy :D");
 }
