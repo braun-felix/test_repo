@@ -3,7 +3,8 @@ void main() {
   print ("Hi :)");
 }
 
-void outputText() {
+
+void printTest() {
   print("this is a test");
   print("and it works very well!");
 }
